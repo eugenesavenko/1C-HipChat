@@ -1,4 +1,3 @@
-1C-HipChat
+Integration app hipchat to app 1C:Enterprise 8.3
 ========
-
-Интеграция 1С:Предприятия 8.3 с HipChat
+ Example integration app hipchat to app 1C:Enterprise 8.3
